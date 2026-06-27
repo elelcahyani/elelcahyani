@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Elfa+%F0%9F%91%8B;Fullstack+Engineer;Informatics+Engineering+Student;Passionate+about+building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Elfa+%F0%9F%91%8B;Fullstack+Engineer;Informatics+Engineering+Student;Passionate+about+building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=elelcahyani&label=Profile%20Views&color=a78bfa&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=elelcahyani&label=Profile%20Views&color=f472b6&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -30,7 +30,8 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,python" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white" style="vertical-align: top; height: 48px; border-radius: 5px;" />
 </p>
 
 ### 📱 Mobile
@@ -94,5 +95,5 @@
 ---
 
 <div align="center">
-  <i>✨ "First, solve the problem. Then, write the code." – John Johnson ✨</i>
+  <i>✨ "First, solve the problem. Then, write the code." ✨</i>
 </div>
